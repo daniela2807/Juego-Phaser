@@ -1,0 +1,10 @@
+@font-face {
+    font-family: Super-Mario;
+    src: url(./assets/Super-Mario.ttf);
+}
+
+body {
+    margin: 3% 0 0 0;
+    text-align: center;
+    background-color: black;
+}
